@@ -1,0 +1,7 @@
+name: learn-data-viz-python
+dependencies:
+  - python=3.6
+  - jupyter=1.0.0
+  - pandas=0.25.0
+  - matplotlib=3.0.3
+  # - seaborn=0.9.0
